@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Staff_Man.dir/Staff_System.cpp.o CMakeFiles/Staff_Man.dir/workerManager.cpp.o  -o Staff_Man 

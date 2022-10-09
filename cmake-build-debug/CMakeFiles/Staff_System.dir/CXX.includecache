@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/laihonglin/Clion项目/Staff_Management/Staff_System.cpp
+iostream
+-
+workerManager.h
+/Users/laihonglin/Clion项目/Staff_Management/workerManager.h
+
+/Users/laihonglin/Clion项目/Staff_Management/workerManager.cpp
+workerManager.h
+/Users/laihonglin/Clion项目/Staff_Management/workerManager.h
+
+/Users/laihonglin/Clion项目/Staff_Management/workerManager.h
+iostream
+-
+
