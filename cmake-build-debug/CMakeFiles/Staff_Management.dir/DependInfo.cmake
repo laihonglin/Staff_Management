@@ -1,20 +1,19 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/laihonglin/Clion项目/Staff_Management/Staff_System.cpp" "/Users/laihonglin/Clion项目/Staff_Management/cmake-build-debug/CMakeFiles/Staff_Management.dir/Staff_System.cpp.o"
-  "/Users/laihonglin/Clion项目/Staff_Management/boss.cpp" "/Users/laihonglin/Clion项目/Staff_Management/cmake-build-debug/CMakeFiles/Staff_Management.dir/boss.cpp.o"
-  "/Users/laihonglin/Clion项目/Staff_Management/employee.cpp" "/Users/laihonglin/Clion项目/Staff_Management/cmake-build-debug/CMakeFiles/Staff_Management.dir/employee.cpp.o"
-  "/Users/laihonglin/Clion项目/Staff_Management/manager.cpp" "/Users/laihonglin/Clion项目/Staff_Management/cmake-build-debug/CMakeFiles/Staff_Management.dir/manager.cpp.o"
-  "/Users/laihonglin/Clion项目/Staff_Management/worker.cpp" "/Users/laihonglin/Clion项目/Staff_Management/cmake-build-debug/CMakeFiles/Staff_Management.dir/worker.cpp.o"
-  "/Users/laihonglin/Clion项目/Staff_Management/workerManager.cpp" "/Users/laihonglin/Clion项目/Staff_Management/cmake-build-debug/CMakeFiles/Staff_Management.dir/workerManager.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/laihonglin/Clion项目/Staff_Management/Staff_System.cpp" "CMakeFiles/Staff_Management.dir/Staff_System.cpp.o" "gcc" "CMakeFiles/Staff_Management.dir/Staff_System.cpp.o.d"
+  "/Users/laihonglin/Clion项目/Staff_Management/boss.cpp" "CMakeFiles/Staff_Management.dir/boss.cpp.o" "gcc" "CMakeFiles/Staff_Management.dir/boss.cpp.o.d"
+  "/Users/laihonglin/Clion项目/Staff_Management/employee.cpp" "CMakeFiles/Staff_Management.dir/employee.cpp.o" "gcc" "CMakeFiles/Staff_Management.dir/employee.cpp.o.d"
+  "/Users/laihonglin/Clion项目/Staff_Management/manager.cpp" "CMakeFiles/Staff_Management.dir/manager.cpp.o" "gcc" "CMakeFiles/Staff_Management.dir/manager.cpp.o.d"
+  "/Users/laihonglin/Clion项目/Staff_Management/worker.cpp" "CMakeFiles/Staff_Management.dir/worker.cpp.o" "gcc" "CMakeFiles/Staff_Management.dir/worker.cpp.o.d"
+  "/Users/laihonglin/Clion项目/Staff_Management/workerManager.cpp" "CMakeFiles/Staff_Management.dir/workerManager.cpp.o" "gcc" "CMakeFiles/Staff_Management.dir/workerManager.cpp.o.d"
   )
 
 # Targets to which this target links.
